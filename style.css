@@ -1,0 +1,9 @@
+/* General Styles */
+body { font-family: Arial, sans-serif; text-align: center; background-color: #f4f4f4; }
+header { background: #333; color: white; padding: 20px; }
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    body { background-color: #e0e0e0; }
+    h1 { font-size: 1.5rem; }
+}
